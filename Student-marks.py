@@ -19,3 +19,8 @@ rolf.marks.append(76)
 print(rolf)
 print(rolf.average)
 
+'''
+An object constructed in this fashion is called an instance object because the first parameter a new object
+takes during construction is itself.
+
+'''
